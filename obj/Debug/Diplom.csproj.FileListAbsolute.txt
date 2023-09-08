@@ -1,0 +1,11 @@
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\bin\Debug\Diplom.exe.config
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.csproj.AssemblyReference.cache
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.Vvod_inf.resources
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.cache
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.csproj.CoreCompileInputs.cache
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.exe
+C:\Users\khram\OneDrive\Рабочий стол\Diplom\Diplom\obj\Debug\Diplom.pdb
